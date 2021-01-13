@@ -1,4 +1,4 @@
-# My Portfolio Live
+# My Portfolio
 
 This repository is holding the static code of my portfolio.
 
